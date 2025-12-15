@@ -1,0 +1,17 @@
+{
+  "name": "xocdia88-ai-predictor",
+  "version": "2.0.0",
+  "description": "AI-powered prediction tool for Tai Xiu (Sic Bo) based on pattern recognition and ensemble learning.",
+  "main": "xocdia88.js",
+  "type": "module",
+  "scripts": {
+    "start": "node xocdia88.js"
+  },
+  "dependencies": {
+    "@fastify/cors": "^8.5.0",
+    "fastify": "^4.25.2",
+    "node-fetch": "^3.3.2"
+  },
+  "author": "thinhtool",
+  "license": "ISC"
+}
